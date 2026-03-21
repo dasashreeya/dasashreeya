@@ -1,51 +1,68 @@
-<h1 align="center">Shreeya Dasa</h1>
+<h1 align="center">Shreeya Dasa Lakshminath</h1>
 
 <p align="center">
-  Applied Machine Learning @ UMD
+  Applied Machine Learning @ University of Maryland
 </p>
 
 <p align="center">
-  Building reliable AI systems with LLMs, ML, and data
+  LLM Systems • Machine Learning • Production-Oriented AI
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Applied+Machine+Learning;LLM+Systems;Agentic+AI;Production+ML&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## About
 
-Applied Machine Learning master's student at the University of Maryland.
+I’m an Applied Machine Learning graduate student at UMD focused on building AI systems that go beyond experimentation.
 
-Interested in building systems that combine:
+My work sits at the intersection of:
 - machine learning  
 - language models  
-- real-world deployment  
+- system design  
 
-I care about making AI systems **work reliably outside notebooks**.
-
----
-
-## Focus
-
-- LLM systems and retrieval pipelines  
-- model evaluation and reliability  
-- applied ML with real-world constraints  
+I’m particularly interested in **how models behave in real-world settings** — reliability, evaluation, and deployment.
 
 ---
 
-## Tools I Use
+## What I Care About
+
+- Designing LLM systems that **self-correct and adapt**
+- Moving from **notebooks → production-ready pipelines**
+- Building ML systems that are **observable, testable, and scalable**
+
+---
+
+## Technical Signal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,mongodb,git,linux" />
 </p>
+
+<p>
+  ML • LLMs • RAG • Retrieval Systems • Model Evaluation • Feature Engineering • MLOps
+</p>
+
+---
+
+## Current Direction
+
+- Improving reliability in LLM pipelines  
+- Exploring evaluation beyond accuracy metrics  
+- Building systems that integrate ML into real workflows  
 
 ---
 
 ## Elsewhere
 
 - GitHub: https://github.com/dasashreeya  
-- LinkedIn: [add link]
+- LinkedIn: [[add link](https://www.linkedin.com/in/shreeya-dasa-lakshminath-94b248214/)]  
+- Resume: [[add link](https://drive.google.com/file/d/1rvxhoEc8rEqIutvvKnX6nOY1-RlvctMG/view?usp=sharing)]
 
 ---
 
 <p align="center">
-  <i>Less focus on demos, more focus on systems that hold up.</i>
+  <i>Focused on building AI systems that hold up in the real world.</i>
 </p>
