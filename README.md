@@ -57,9 +57,9 @@ Iâ€™m particularly interested in **how models behave in real-world settings** â€
 
 ## Elsewhere
 
-- GitHub: https://github.com/dasashreeya  
-- LinkedIn: [[add link](https://www.linkedin.com/in/shreeya-dasa-lakshminath-94b248214/)]  
-- Resume: [[add link](https://drive.google.com/file/d/1rvxhoEc8rEqIutvvKnX6nOY1-RlvctMG/view?usp=sharing)]
+ 
+- [[Linkedin](https://www.linkedin.com/in/shreeya-dasa-lakshminath-94b248214/)]  
+- [[Resume](https://drive.google.com/file/d/1rvxhoEc8rEqIutvvKnX6nOY1-RlvctMG/view?usp=sharing)]
 
 ---
 
