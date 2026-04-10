@@ -23,14 +23,14 @@ My work sits at the intersection of:
 - language models  
 - system design  
 
-I’m particularly interested in **how models behave in real-world settings** — reliability, evaluation, and deployment.
+I’m particularly interested in **how models behave in real-world settings** , reliability, evaluation, and deployment.
 
 ---
 
 ## What I Care About
 
 - Designing LLM systems that **self-correct and adapt**
-- Moving from **notebooks → production-ready pipelines**
+- Moving from **notebooks → production ready pipelines**
 - Building ML systems that are **observable, testable, and scalable**
 
 ---
